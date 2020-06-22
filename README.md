@@ -6,4 +6,4 @@ work done during each day of the challenge.
 #Day 1
 
 -Have gone through lessons of Responsive Web Design in freecodecamp.org
--Learnt about obects and class in Dart.
+-Learnt about objects and class in Dart.
