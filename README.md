@@ -10,4 +10,5 @@ work done during each day of the challenge.
 
 # Day 2
 - Completed the tribute page project in [freecodecamp.org](https://www.freecodecamp.org/)
+- [Link to work](https://github.com/advaith-unnikrishnan/Tribute-Page)
 - Reviewed Python basics
