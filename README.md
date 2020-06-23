@@ -3,7 +3,11 @@
 I have started the 100 days of code challenge. This repository is to keep track of the
 work done during each day of the challenge.
 
-#Day 1
+# Day 1
 
--Have gone through lessons of Responsive Web Design in freecodecamp.org
--Learnt about objects and class in Dart.
+- Have gone through lessons of Responsive Web Design in [freecodecamp.org](https://www.freecodecamp.org/)
+- Learnt about objects and class in Dart.
+
+# Day 2
+- Completed the tribute page project in [freecodecamp.org](https://www.freecodecamp.org/)
+- Reviewed Python basics
