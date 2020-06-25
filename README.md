@@ -17,3 +17,7 @@ work done during each day of the challenge.
 - Completed the survey form project in [freecodecamp.org](https://www.freecodecamp.org/)
 - [Link to work](https://github.com/advaith-unnikrishnan/Survey-Form)
 
+# Day 4
+- Completed the product landing page project in [freecodecamp.org](https://www.freecodecamp.org/)
+- [Link to work](https://github.com/advaith-unnikrishnan/Product-Landing-Page)
+
