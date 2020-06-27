@@ -21,3 +21,10 @@ work done during each day of the challenge.
 - Completed the product landing page project in [freecodecamp.org](https://www.freecodecamp.org/)
 - [Link to work](https://github.com/advaith-unnikrishnan/Product-Landing-Page)
 
+# Day 5
+- Covered the basic concepts of Javascript
+
+# Day 6
+- Completed the technical documentation project by [freecodecamp.org](https://www.freecodecamp.org/)
+- [Link to work](https://github.com/advaith-unnikrishnan/Technical-Documentation)
+
