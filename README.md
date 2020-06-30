@@ -28,3 +28,7 @@ work done during each day of the challenge.
 - Completed the technical documentation project by [freecodecamp.org](https://www.freecodecamp.org/)
 - [Link to work](https://github.com/advaith-unnikrishnan/Technical-Documentation)
 
+# Day 7 and Day 8
+- Participated in Hack 20 the Flutter Hackathon
+- We were a team of 4 and built an app to help people during the current pandemic situation
+
