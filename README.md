@@ -39,3 +39,7 @@ work done during each day of the challenge.
 # Day 9
 - Completed technical documentation page project by [freecodecamp.org](https://www.freecodecamp.org/)
 - [Link to work](https://github.com/advaith-unnikrishnan/Technical-Documentation)
+
+# Day 10 
+- Created a Tic Tac Toe game using [Pygame](https://www.pygame.org) module.
+- [Link to work](https://github.com/advaith-unnikrishnan/Tic-Tac-Toe)
