@@ -43,3 +43,7 @@ work done during each day of the challenge.
 # Day 10 
 - Created a Tic Tac Toe game using [Pygame](https://www.pygame.org) module.
 - [Link to work](https://github.com/advaith-unnikrishnan/Tic-Tac-Toe)
+
+# Day 11
+- Created a Hangman game using the [Pygame](https://www.pygame.org) module.
+- [Link to work](https://github.com/advaith-unnikrishnan/Hangman)
