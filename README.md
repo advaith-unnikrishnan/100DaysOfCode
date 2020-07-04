@@ -47,3 +47,7 @@ work done during each day of the challenge.
 # Day 11
 - Created a Hangman game using the [Pygame](https://www.pygame.org) module.
 - [Link to work](https://github.com/advaith-unnikrishnan/Hangman)
+
+# Day 12
+- Created a memory game using _HTML,CSS and Javascript_ based on Money Heist/ La Casa De Papel
+- [Link to work](https://github.com/advaith-unnikrishnan/memory-game)
