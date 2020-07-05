@@ -51,3 +51,6 @@ work done during each day of the challenge.
 # Day 12
 - Created a memory game using _HTML,CSS and Javascript_ based on Money Heist/ La Casa De Papel
 - [Link to work](https://github.com/advaith-unnikrishnan/memory-game)
+
+# Day 13
+- Reviewed Javascript basics
