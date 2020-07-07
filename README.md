@@ -54,3 +54,6 @@ work done during each day of the challenge.
 
 # Day 13
 - Reviewed Javascript basics
+
+# Day 14
+- Completed basic Javascript tutorials in [freecodecamp](https://www.freecodecamp.org/)
