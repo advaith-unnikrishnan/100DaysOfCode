@@ -57,3 +57,7 @@ work done during each day of the challenge.
 
 # Day 14
 - Completed basic Javascript tutorials in [freecodecamp](https://www.freecodecamp.org/)
+
+# Day 15
+- Completed the responsive web design course by [freecodecamp.org](https://www.freecodecamp.org/)
+- View my certificate [here](https://www.freecodecamp.org/certification/advaith-unnikrishnan/responsive-web-design)
