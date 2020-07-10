@@ -61,3 +61,7 @@ work done during each day of the challenge.
 # Day 15
 - Completed the responsive web design course by [freecodecamp.org](https://www.freecodecamp.org/)
 - View my certificate [here](https://www.freecodecamp.org/certification/advaith-unnikrishnan/responsive-web-design)
+
+# Day 16
+- Reviewed some python modules
+- You can check this [repository](https://github.com/advaith-unnikrishnan/Getting-started-with-Python) , it comprises of resources to get started in python.
