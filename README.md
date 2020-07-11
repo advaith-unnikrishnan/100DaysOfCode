@@ -65,3 +65,7 @@ work done during each day of the challenge.
 # Day 16
 - Reviewed some python modules
 - You can check this [repository](https://github.com/advaith-unnikrishnan/Getting-started-with-Python) , it comprises of resources to get started in python.
+
+# Day 17
+- Learnt some new concepts about Operating Systems
+- Practiced shell commands in Linux and Windows CLI
