@@ -69,3 +69,7 @@ work done during each day of the challenge.
 # Day 17
 - Learnt some new concepts about Operating Systems
 - Practiced shell commands in Linux and Windows CLI
+
+# Day 18
+- Covered some basics of Deep Learning
+- Explored Power Apps 
