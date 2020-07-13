@@ -73,3 +73,6 @@ work done during each day of the challenge.
 # Day 18
 - Covered some basics of Deep Learning
 - Explored Power Apps 
+
+# Day 19
+- Reviewed basic data structures such as stack , queue, linked list and trees.
