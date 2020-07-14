@@ -76,3 +76,7 @@ work done during each day of the challenge.
 
 # Day 19
 - Reviewed basic data structures such as stack , queue, linked list and trees.
+
+# Day 20
+- Created a color flipper using Javascript
+
