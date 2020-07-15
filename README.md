@@ -79,4 +79,7 @@ work done during each day of the challenge.
 
 # Day 20
 - Created a color flipper using Javascript
-
+- [Link to work](https://github.com/advaith-unnikrishnan/JS-Projects)
+# Day 21
+- Created a counter using Javascript
+- [Linke to work](https://github.com/advaith-unnikrishnan/JS-Projects)
