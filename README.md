@@ -82,4 +82,8 @@ work done during each day of the challenge.
 - [Link to work](https://github.com/advaith-unnikrishnan/JS-Projects)
 # Day 21
 - Created a counter using Javascript
-- [Linke to work](https://github.com/advaith-unnikrishnan/JS-Projects)
+- [Link to work](https://github.com/advaith-unnikrishnan/JS-Projects)
+
+# Day 22
+- Created a reviewspage using Javascript
+- [Link to work](https://github.com/advaith-unnikrishnan/JS-Projects)
