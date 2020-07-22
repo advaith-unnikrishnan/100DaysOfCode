@@ -87,3 +87,6 @@ work done during each day of the challenge.
 # Day 22
 - Created a reviewspage using Javascript
 - [Link to work](https://github.com/advaith-unnikrishnan/JS-Projects)
+
+# Day 23
+- Completed ES6 tutorial in [freecodecamp.org](https://www.freecodecamp.org/)
